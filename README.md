@@ -120,9 +120,11 @@
 
 <div align="center">
 
-![maybeags's GitHub stats](https://github-readme-stats.vercel.app/api?username=maybeags&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=maybeags&show_icons=true&theme=tokyonight&count_private=true" alt="maybeags's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybeags&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeags&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
@@ -144,7 +146,7 @@
 
 *"기초에서 배포까지, 직접 만들고 직접 가르칩니다."*
 
-</div>## Hi there 👋
+</div>
 
 <!--
 **maybeags/maybeags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
