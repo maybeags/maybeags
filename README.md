@@ -120,11 +120,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maybeags&show_icons=true&theme=tokyonight&count_private=true" alt="maybeags's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maybeags&show_icons=true&theme=tokyonight&count_private=true" alt="maybeags's GitHub stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeags&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maybeags&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maybeags&theme=tokyonight" alt="maybeags's streak" />
 
 </div>
 
